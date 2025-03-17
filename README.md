@@ -8,7 +8,7 @@ Here’s a structured summary for your GitHub documentation based on the HR Anal
 To analyze employee attrition trends and identify key factors influencing workforce retention to improve HR policies and reduce turnover rates.  
 
 ## Dataset Used 📂
-[HR Analytics Dashboard Dataset]()
+[HR Analytics Dashboard Dataset](https://github.com/Mayur061099/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv)
 
 ## 📌 Key Questions (KPIs)  
 - 📉 **Attrition Rate** – What percentage of employees are leaving?  
@@ -17,7 +17,9 @@ To analyze employee attrition trends and identify key factors influencing workfo
 - 💰 **Salary vs Attrition** – Does salary impact employee retention?  
 - 📅 **Years at Company** – At what tenure do employees leave the most?  
 - 📊 **Demographic Breakdown** – How do age and gender affect attrition?  
-- 🏷 **Job Roles** – Which roles have the highest attrition?  
+- 🏷 **Job Roles** – Which roles have the highest attrition?
+- 
+Dashboard Interaction: [View Dashboard]()
 
 ## 🔄 Process  
 1. **Data Collection** 📥 – Gather employee data (salary, age, tenure, education, etc.).  
