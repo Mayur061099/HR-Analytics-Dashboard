@@ -7,6 +7,9 @@ Here’s a structured summary for your GitHub documentation based on the HR Anal
 ## 🎯 Project Objective  
 To analyze employee attrition trends and identify key factors influencing workforce retention to improve HR policies and reduce turnover rates.  
 
+## Dataset Used 📂
+[HR Analytics Dashboard Dataset]()
+
 ## 📌 Key Questions (KPIs)  
 - 📉 **Attrition Rate** – What percentage of employees are leaving?  
 - 🏢 **Department-wise Attrition** – Which departments experience the most attrition?  
@@ -21,7 +24,11 @@ To analyze employee attrition trends and identify key factors influencing workfo
 2. **Data Cleaning & Preprocessing** 🧹 – Handle missing values and standardize data.  
 3. **Exploratory Data Analysis (EDA)** 📊 – Visualize and analyze patterns.  
 4. **KPI Measurement** 📏 – Track attrition trends using dashboards.  
-5. **Insights & Recommendations** 💡 – Derive conclusions and suggest improvements.  
+5. **Insights & Recommendations** 💡 – Derive conclusions and suggest improvements.
+
+## Dashboard 📊
+![Screenshot 2025-03-17 103001](https://github.com/user-attachments/assets/30866501-8774-4584-89e6-a2e6936e3d3c)
+
 
 ## 📊 Insights  
 - **High Attrition Rate (16.1%)** 🚨 – Needs HR intervention.  
