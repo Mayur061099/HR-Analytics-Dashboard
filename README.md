@@ -34,10 +34,11 @@ To analyze employee attrition trends and identify key factors influencing workfo
 ## ✅ Conclusion  
 The HR team should focus on **salary adjustments, employee engagement, and career growth opportunities** to reduce attrition, particularly for **young employees and key job roles like Laboratory Technicians and Sales Executives**.  
 
----
-Contact 📬
+# Contact 📬
+
 If you have any questions, feedback, or inquiries about the project, feel free to reach out to me!
 
-Contact Information 📞
-Email: mayupatel0610@gmail.com
-LinkedIn: www.linkedin
+### Contact Information 📞
+
+- **Email**: [mayupatel0610@gmail.com](mailto:mayupatel0610@gmail.com)
+- **LinkedIn**: [Mayur Patel](https://www.linkedin.com/in/mayurpatel0610)
