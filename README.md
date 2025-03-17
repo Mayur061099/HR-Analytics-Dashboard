@@ -15,7 +15,6 @@ To analyze employee attrition trends and identify key factors influencing workfo
 - 📅 **Years at Company** – At what tenure do employees leave the most?  
 - 📊 **Demographic Breakdown** – How do age and gender affect attrition?  
 - 🏷 **Job Roles** – Which roles have the highest attrition?
-- 
 Dashboard Interaction: [View Dashboard](https://github.com/Mayur061099/HR-Analytics-Dashboard/blob/main/Screenshot%202025-03-17%20103001.png)
 
 ## 🔄 Process  
