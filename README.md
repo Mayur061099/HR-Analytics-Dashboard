@@ -1,6 +1,3 @@
-Here’s a structured summary for your GitHub documentation based on the HR Analytics Dashboard:  
-
----
 
 # 📊 HR Analytics Dashboard  
 
